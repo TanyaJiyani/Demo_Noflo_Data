@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shravantikatti/Demo_Noflo_Data.git"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "noflo": "^1.1.3",
